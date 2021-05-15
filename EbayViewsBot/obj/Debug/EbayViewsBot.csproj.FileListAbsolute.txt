@@ -1,0 +1,10 @@
+D:\Levi\source\repos\EbayViewsBot\EbayViewsBot\obj\Debug\EbayViewsBot.csprojAssemblyReference.cache
+D:\Levi\source\repos\EbayViewsBot\EbayViewsBot\obj\Debug\EbayViewsBot.Properties.Resources.resources
+D:\Levi\source\repos\EbayViewsBot\EbayViewsBot\obj\Debug\EbayViewsBot.csproj.GenerateResource.cache
+D:\Levi\source\repos\EbayViewsBot\EbayViewsBot\obj\Debug\EbayViewsBot.csproj.CoreCompileInputs.cache
+D:\Levi\source\repos\EbayViewsBot\EbayViewsBot\bin\Debug\EbayViewsBot.exe.config
+D:\Levi\source\repos\EbayViewsBot\EbayViewsBot\bin\Debug\EbayViewsBot.exe
+D:\Levi\source\repos\EbayViewsBot\EbayViewsBot\bin\Debug\EbayViewsBot.pdb
+D:\Levi\source\repos\EbayViewsBot\EbayViewsBot\obj\Debug\EbayViewsBot.exe
+D:\Levi\source\repos\EbayViewsBot\EbayViewsBot\obj\Debug\EbayViewsBot.pdb
+D:\Levi\source\repos\EbayViewsBot\EbayViewsBot\obj\Debug\EbayViewsBot.EbayViewsBot.resources
